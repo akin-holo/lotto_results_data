@@ -1,0 +1,5048 @@
+{
+  "gold": {
+    "lastUpdated": "2026-09-04T22:26:08.785Z",
+    "draws": [
+      {
+        "serialNumber": "ref_1",
+        "date": "2026-01-02",
+        "displayDate": "Jan Fri 2nd 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 33,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 28,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 35,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 1,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 52,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 81,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 65,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 70,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 57,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 64,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_2",
+        "date": "2026-01-06",
+        "displayDate": "Jan Tue 6th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 57,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 35,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 66,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 52,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 30,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 19,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 53,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 62,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 48,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 45,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_3",
+        "date": "2026-01-09",
+        "displayDate": "Jan Fri 9th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 79,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 27,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 47,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 66,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 67,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 76,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 29,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 44,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 84,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 74,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_4",
+        "date": "2026-01-13",
+        "displayDate": "Jan Tue 13th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 66,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 77,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 36,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 40,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 31,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 3,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 68,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 59,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 85,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 44,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_5",
+        "date": "2026-01-16",
+        "displayDate": "Jan Fri 16th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 76,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 2,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 49,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 85,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 10,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 9,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 69,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 65,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 6,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 46,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_6",
+        "date": "2026-01-20",
+        "displayDate": "Jan Tue 20th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 87,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 63,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 61,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 22,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 80,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 83,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 75,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 46,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 16,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 15,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_7",
+        "date": "2026-01-23",
+        "displayDate": "Jan Fri 23rd 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 69,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 16,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 62,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 26,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 50,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 12,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 70,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 24,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 8,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 87,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_8",
+        "date": "2026-01-27",
+        "displayDate": "Jan Tue 27th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 84,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 87,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 32,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 36,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 28,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 60,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 16,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 33,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 77,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 7,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_9",
+        "date": "2026-01-30",
+        "displayDate": "Jan Fri 30th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 15,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 76,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 90,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 83,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 26,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 64,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 40,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 27,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 88,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 56,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_10",
+        "date": "2026-02-03",
+        "displayDate": "Feb Tue 3rd 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 63,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 28,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 88,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 70,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 7,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 18,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 48,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 53,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 78,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 10,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_11",
+        "date": "2026-02-06",
+        "displayDate": "Feb Fri 6th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 35,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 78,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 15,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 50,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 17,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 77,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 79,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 5,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 40,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 52,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_12",
+        "date": "2026-02-10",
+        "displayDate": "Feb Tue 10th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 31,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 14,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 3,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 13,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 55,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 11,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 39,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 46,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 82,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 48,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_13",
+        "date": "2026-02-13",
+        "displayDate": "Feb Fri 13th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 44,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 80,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 21,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 11,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 59,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 19,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 74,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 34,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 79,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 60,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_14",
+        "date": "2026-02-17",
+        "displayDate": "Feb Tue 17th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 74,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 67,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 71,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 77,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 26,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 65,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 16,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 83,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 2,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 27,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_15",
+        "date": "2026-02-20",
+        "displayDate": "Feb Fri 20th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 50,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 18,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 36,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 20,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 80,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 54,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 6,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 31,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 15,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 57,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_16",
+        "date": "2026-02-24",
+        "displayDate": "Feb Tue 24th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 35,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 28,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 81,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 42,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 84,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 14,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 49,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 25,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 66,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 26,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_17",
+        "date": "2026-02-27",
+        "displayDate": "Feb Fri 27th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 57,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 15,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 25,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 36,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 71,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 17,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 39,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 13,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 21,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 55,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_18",
+        "date": "2026-03-03",
+        "displayDate": "Mar Tue 3rd 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 71,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 34,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 26,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 45,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 70,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 23,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 4,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 67,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 48,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 46,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_19",
+        "date": "2026-03-06",
+        "displayDate": "Mar Fri 6th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 81,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 12,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 46,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 75,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 28,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 68,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 18,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 83,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 8,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 14,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_20",
+        "date": "2026-03-10",
+        "displayDate": "Mar Tue 10th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 71,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 51,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 30,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 23,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 85,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 21,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 40,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 32,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 1,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 16,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_21",
+        "date": "2026-03-13",
+        "displayDate": "Mar Fri 13th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 11,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 60,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 47,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 49,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 67,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 90,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 29,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 36,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 80,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 79,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_22",
+        "date": "2026-03-17",
+        "displayDate": "Mar Tue 17th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 33,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 19,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 30,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 13,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 36,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 1,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 39,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 87,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 82,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 71,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_23",
+        "date": "2026-03-20",
+        "displayDate": "Mar Fri 20th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 49,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 1,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 14,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 5,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 68,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 3,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 54,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 89,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 61,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 2,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_24",
+        "date": "2026-03-24",
+        "displayDate": "Mar Tue 24th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 87,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 10,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 76,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 89,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 25,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 78,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 51,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 82,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 84,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 85,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_25",
+        "date": "2026-03-27",
+        "displayDate": "Mar Fri 27th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 37,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 45,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 39,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 22,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 48,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 6,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 76,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 13,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 55,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 72,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_26",
+        "date": "2026-03-31",
+        "displayDate": "Mar Tue 31st 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 86,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 18,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 65,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 39,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 1,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 51,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 29,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 59,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 36,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 87,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_27",
+        "date": "2026-04-03",
+        "displayDate": "Apr Fri 3rd 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 46,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 21,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 56,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 17,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 72,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 67,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 22,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 65,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 55,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 5,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_28",
+        "date": "2026-04-07",
+        "displayDate": "Apr Tue 7th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 43,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 41,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 74,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 81,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 12,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 57,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 72,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 54,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 61,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 85,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_29",
+        "date": "2026-04-10",
+        "displayDate": "Apr Fri 10th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 87,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 1,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 75,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 34,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 67,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 50,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 11,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 54,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 33,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 82,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_30",
+        "date": "2026-04-14",
+        "displayDate": "Apr Tue 14th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 39,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 21,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 60,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 50,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 28,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 66,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 9,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 3,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 20,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 58,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_31",
+        "date": "2026-04-17",
+        "displayDate": "Apr Fri 17th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 18,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 23,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 40,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 2,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 26,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 45,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 61,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 51,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 24,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 89,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_32",
+        "date": "2026-04-21",
+        "displayDate": "Apr Tue 21st 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 39,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 15,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 21,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 2,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 30,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 48,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 41,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 46,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 49,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 90,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_33",
+        "date": "2026-04-24",
+        "displayDate": "Apr Fri 24th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 13,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 36,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 57,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 64,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 55,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 60,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 67,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 65,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 43,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 77,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_34",
+        "date": "2026-04-28",
+        "displayDate": "Apr Tue 28th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 36,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 81,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 28,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 38,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 90,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 84,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 42,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 89,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 7,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 54,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_35",
+        "date": "2026-05-01",
+        "displayDate": "May Fri 1st 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 23,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 69,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 14,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 77,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 29,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 71,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 78,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 54,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 81,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 47,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_36",
+        "date": "2026-05-05",
+        "displayDate": "May Tue 5th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 53,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 45,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 89,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 76,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 9,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 58,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 57,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 85,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 80,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 61,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_37",
+        "date": "2026-05-08",
+        "displayDate": "May Fri 8th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 1,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 46,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 55,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 40,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 71,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 41,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 86,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 90,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 89,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 43,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_38",
+        "date": "2026-05-12",
+        "displayDate": "May Tue 12th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 68,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 65,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 17,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 38,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 37,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 30,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 10,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 32,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 43,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 41,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_39",
+        "date": "2026-05-15",
+        "displayDate": "May Fri 15th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 86,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 42,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 31,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 18,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 88,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 62,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 39,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 68,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 45,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 66,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_40",
+        "date": "2026-05-19",
+        "displayDate": "May Tue 19th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 8,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 78,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 71,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 1,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 9,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 83,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 73,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 31,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 5,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 89,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_41",
+        "date": "2026-05-22",
+        "displayDate": "May Fri 22nd 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 33,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 43,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 13,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 80,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 31,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 72,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 55,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 66,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 85,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 1,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_42",
+        "date": "2026-05-26",
+        "displayDate": "May Tue 26th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 74,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 41,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 69,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 50,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 68,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 70,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 67,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 86,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 44,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 84,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_43",
+        "date": "2026-05-29",
+        "displayDate": "May Fri 29th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 31,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 53,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 16,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 39,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 71,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 11,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 61,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 21,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 5,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 41,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_44",
+        "date": "2026-06-02",
+        "displayDate": "Jun Tue 2nd 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 8,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 78,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 21,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 5,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 88,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 53,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 17,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 56,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 12,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 59,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_45",
+        "date": "2026-06-05",
+        "displayDate": "Jun Fri 5th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 68,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 18,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 28,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 72,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 55,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 48,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 85,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 90,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 9,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 39,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_46",
+        "date": "2026-06-09",
+        "displayDate": "Jun Tue 9th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 63,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 33,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 29,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 10,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 52,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 64,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 19,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 84,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 40,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 51,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_47",
+        "date": "2026-06-12",
+        "displayDate": "Jun Fri 12th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 2,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 74,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 30,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 18,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 67,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 72,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 24,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 37,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 3,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 50,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_48",
+        "date": "2026-06-16",
+        "displayDate": "Jun Tue 16th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 57,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 58,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 90,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 86,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 18,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 62,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 21,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 16,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 77,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 72,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_49",
+        "date": "2026-06-19",
+        "displayDate": "Jun Fri 19th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 16,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 11,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 72,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 88,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 20,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 40,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 8,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 63,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 10,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 52,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_50",
+        "date": "2026-06-23",
+        "displayDate": "Jun Tue 23rd 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 29,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 27,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 38,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 8,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 57,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 55,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 85,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 40,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 75,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 74,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_51",
+        "date": "2026-06-26",
+        "displayDate": "Jun Fri 26th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 87,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 28,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 70,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 13,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 26,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 47,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 38,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 31,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 6,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 49,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_52",
+        "date": "2026-06-30",
+        "displayDate": "Jun Tue 30th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 57,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 81,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 9,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 79,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 18,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 68,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 1,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 71,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 37,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 24,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_53",
+        "date": "2026-07-03",
+        "displayDate": "Jul Fri 3rd 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 45,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 55,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 76,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 84,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 88,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 52,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 87,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 33,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 29,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 25,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_54",
+        "date": "2026-07-07",
+        "displayDate": "Jul Tue 7th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 46,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 38,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 48,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 22,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 62,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 6,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 56,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 71,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 8,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 5,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_55",
+        "date": "2026-07-10",
+        "displayDate": "Jul Fri 10th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 62,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 76,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 46,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 24,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 45,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 49,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 83,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 87,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 33,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 4,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_56",
+        "date": "2026-07-14",
+        "displayDate": "Jul Tue 14th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 89,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 78,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 66,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 82,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 18,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 29,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 71,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 32,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 63,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 52,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_57",
+        "date": "2026-07-17",
+        "displayDate": "Jul Fri 17th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 81,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 7,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 87,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 49,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 47,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 44,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 8,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 17,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 35,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 3,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_58",
+        "date": "2026-07-21",
+        "displayDate": "Jul Tue 21st 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 62,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 80,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 34,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 65,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 17,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 70,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 43,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 84,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 40,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 26,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_59",
+        "date": "2026-07-24",
+        "displayDate": "Jul Fri 24th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 80,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 21,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 60,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 24,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 58,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 19,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 8,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 37,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 81,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 68,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_60",
+        "date": "2026-07-28",
+        "displayDate": "Jul Tue 28th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 35,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 4,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 2,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 85,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 81,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 88,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 37,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 58,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 60,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 78,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_61",
+        "date": "2026-07-31",
+        "displayDate": "Jul Fri 31st 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 76,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 68,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 21,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 15,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 33,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 36,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 16,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 82,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 13,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 6,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_62",
+        "date": "2026-08-04",
+        "displayDate": "Aug Tue 4th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 26,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 7,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 12,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 74,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 76,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 1,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 2,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 25,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 52,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 5,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_63",
+        "date": "2026-08-07",
+        "displayDate": "Aug Fri 7th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 45,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 24,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 1,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 57,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 32,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 59,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 55,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 20,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 18,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 77,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_64",
+        "date": "2026-08-11",
+        "displayDate": "Aug Tue 11th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 9,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 86,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 84,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 51,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 66,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 31,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 76,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 4,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 82,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 1,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_65",
+        "date": "2026-08-14",
+        "displayDate": "Aug Fri 14th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 25,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 86,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 81,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 50,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 51,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 62,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 61,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 29,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 7,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 22,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_66",
+        "date": "2026-08-18",
+        "displayDate": "Aug Tue 18th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 46,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 40,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 34,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 73,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 31,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 15,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 86,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 88,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 60,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 47,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_67",
+        "date": "2026-08-21",
+        "displayDate": "Aug Fri 21st 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 82,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 9,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 22,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 14,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 7,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 35,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 31,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 67,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 90,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 37,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_68",
+        "date": "2026-08-25",
+        "displayDate": "Aug Tue 25th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 38,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 31,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 30,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 83,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 33,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 68,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 82,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 74,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 34,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 44,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_69",
+        "date": "2026-08-28",
+        "displayDate": "Aug Fri 28th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 75,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 2,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 1,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 77,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 78,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 19,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 87,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 58,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 88,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 3,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_70",
+        "date": "2026-09-01",
+        "displayDate": "Sep Tue 1st 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 44,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 43,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 45,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 75,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 84,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 50,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 51,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 77,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 23,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 67,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      },
+      {
+        "serialNumber": "ref_71",
+        "date": "2026-09-04",
+        "displayDate": "Sep Fri 4th 2026",
+        "corrected": false,
+        "correctionHistory": [],
+        "winningNumbers": [
+          {
+            "position": "position_1",
+            "number": 32,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 79,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 54,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 12,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 90,
+            "corrected": false,
+            "previousValue": null
+          }
+        ],
+        "machineNumbers": [
+          {
+            "position": "position_1",
+            "number": 65,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_2",
+            "number": 23,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_3",
+            "number": 63,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_4",
+            "number": 86,
+            "corrected": false,
+            "previousValue": null
+          },
+          {
+            "position": "position_5",
+            "number": 59,
+            "corrected": false,
+            "previousValue": null
+          }
+        ]
+      }
+    ]
+  }
+}
