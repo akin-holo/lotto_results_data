@@ -4,8 +4,8 @@
     "draws": [
       {
         "serialNumber": "E",
-        "date": "1st",
-        "displayDate": "1st",
+        "date": "2025-01-01",
+        "displayDate": "Jan Wed 1st 2025",
         "corrected": false,
         "correctionHistory": [],
         "winningNumbers": [
@@ -76,7 +76,7 @@
       {
         "serialNumber": "E",
         "date": "2025-01-05",
-        "displayDate": "Jan, Sun 5th",
+        "displayDate": "Jan, Sun 5th 2025",
         "corrected": false,
         "correctionHistory": [],
         "winningNumbers": [
@@ -2845,7 +2845,7 @@
       {
         "serialNumber": "39",
         "date": "2025-05-21",
-        "displayDate": "May wed 21st",
+        "displayDate": "May wed 21st 2025",
         "corrected": false,
         "correctionHistory": [],
         "winningNumbers": [
@@ -3058,7 +3058,7 @@
       {
         "serialNumber": "42",
         "date": "2025-06-01",
-        "displayDate": "Jun sun 1st",
+        "displayDate": "Jun sun 1st 2025",
         "corrected": false,
         "correctionHistory": [],
         "winningNumbers": [
