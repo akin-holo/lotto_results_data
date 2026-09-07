@@ -856,20 +856,20 @@
       },
       {
         "serialNumber": "M",
-        "date": "2023-12-25",
+        "date": ".....",
         "displayDate": "Dec 25th 2023",
         "corrected": false,
         "correctionHistory": [],
         "winningNumbers": [
           {
             "position": "position_1",
-            "number": " ",
+            "number": "",
             "corrected": false,
             "previousValue": null
           },
           {
             "position": "position_2",
-            "number": " ",
+            "number": "",
             "corrected": false,
             "previousValue": null
           },
@@ -887,7 +887,7 @@
           },
           {
             "position": "position_5",
-            "number": " ",
+            "number": "",
             "corrected": false,
             "previousValue": null
           }
@@ -895,7 +895,7 @@
         "machineNumbers": [
           {
             "position": "position_1",
-            "number": " ",
+            "number": "",
             "corrected": false,
             "previousValue": null
           },
@@ -926,15 +926,15 @@
         ]
       },
       {
-        "serialNumber": "...",
+        "serialNumber": ".....",
         "date": "",
-        "displayDate": " ",
+        "displayDate": "",
         "corrected": false,
         "correctionHistory": [],
         "winningNumbers": [
           {
             "position": "position_1",
-            "number": " ",
+            "number": "",
             "corrected": false,
             "previousValue": null
           },
@@ -946,7 +946,7 @@
           },
           {
             "position": "position_3",
-            "number": " of ",
+            "number": "of",
             "corrected": false,
             "previousValue": null
           },
@@ -958,7 +958,7 @@
           },
           {
             "position": "position_5",
-            "number": " ",
+            "number": "",
             "corrected": false,
             "previousValue": null
           }
@@ -966,25 +966,25 @@
         "machineNumbers": [
           {
             "position": "position_1",
-            "number": " ",
+            "number": "",
             "corrected": false,
             "previousValue": null
           },
           {
             "position": "position_2",
-            "number": " ",
+            "number": "",
             "corrected": false,
             "previousValue": null
           },
           {
             "position": "position_3",
-            "number": " ",
+            "number": "",
             "corrected": false,
             "previousValue": null
           },
           {
             "position": "position_4",
-            "number": " ",
+            "number": "",
             "corrected": false,
             "previousValue": null
           },

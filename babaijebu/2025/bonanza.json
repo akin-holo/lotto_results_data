@@ -1076,7 +1076,7 @@
         "winningNumbers": [
           {
             "position": "position_1",
-            "number": 0,
+            "number": "",
             "corrected": false,
             "previousValue": null
           },
@@ -1094,13 +1094,13 @@
           },
           {
             "position": "position_4",
-            "number": 0,
+            "number": "",
             "corrected": false,
             "previousValue": null
           },
           {
             "position": "position_5",
-            "number": 0,
+            "number": "",
             "corrected": false,
             "previousValue": null
           }
@@ -1132,7 +1132,7 @@
           },
           {
             "position": "position_5",
-            "number": 0,
+            "number": "",
             "corrected": false,
             "previousValue": null
           }

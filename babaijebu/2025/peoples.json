@@ -3058,7 +3058,7 @@
       {
         "serialNumber": "43",
         "date": "2025-06-02",
-        "displayDate": "Jun 2nd",
+        "displayDate": "Jun mon 2nd 2025",
         "corrected": false,
         "correctionHistory": [],
         "winningNumbers": [
@@ -3483,8 +3483,8 @@
       },
       {
         "serialNumber": "49",
-        "date": "2025-06-02",
-        "displayDate": "Jun mon 2rd",
+        "date": "2025-06-23",
+        "displayDate": "Jun mon 23 2025",
         "corrected": false,
         "correctionHistory": [],
         "winningNumbers": [

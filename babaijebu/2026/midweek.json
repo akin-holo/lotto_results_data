@@ -1424,14 +1424,14 @@
       },
       {
         "serialNumber": ".....",
-        "date": "2026-05-27",
+        "date": ".....",
         "displayDate": "May 27th 2026",
         "corrected": false,
         "correctionHistory": [],
         "winningNumbers": [
           {
             "position": "position_1",
-            "number": " ",
+            "number": "",
             "corrected": false,
             "previousValue": null
           },
@@ -1449,13 +1449,13 @@
           },
           {
             "position": "position_4",
-            "number": " ",
+            "number": "",
             "corrected": false,
             "previousValue": null
           },
           {
             "position": "position_5",
-            "number": " ",
+            "number": "",
             "corrected": false,
             "previousValue": null
           }

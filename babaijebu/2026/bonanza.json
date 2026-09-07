@@ -572,7 +572,7 @@
       },
       {
         "serialNumber": ".....",
-        "date": "2026-03-06",
+        "date": ".....",
         "corrected": false,
         "correctionHistory": [],
         "winningNumbers": [
@@ -596,13 +596,13 @@
           },
           {
             "position": "position_4",
-            "number": " ",
+            "number": "",
             "corrected": false,
             "previousValue": null
           },
           {
             "position": "position_5",
-            "number": " ",
+            "number": "",
             "corrected": false,
             "previousValue": null
           }
@@ -634,7 +634,7 @@
           },
           {
             "position": "position_5",
-            "number": " ",
+            "number": "",
             "corrected": false,
             "previousValue": null
           }
@@ -713,14 +713,14 @@
       },
       {
         "serialNumber": ".....",
-        "date": "2026-03-20",
+        "date": ".....",
         "displayDate": "Mar 20th 2026",
         "corrected": false,
         "correctionHistory": [],
         "winningNumbers": [
           {
             "position": "position_1",
-            "number": " ",
+            "number": "",
             "corrected": false,
             "previousValue": null
           },
@@ -738,13 +738,13 @@
           },
           {
             "position": "position_4",
-            "number": " ",
+            "number": "",
             "corrected": false,
             "previousValue": null
           },
           {
             "position": "position_5",
-            "number": " ",
+            "number": "",
             "corrected": false,
             "previousValue": null
           }
@@ -855,7 +855,7 @@
       },
       {
         "serialNumber": ".....",
-        "date": "2026-04-03",
+        "date": ".....",
         "corrected": false,
         "correctionHistory": [],
         "winningNumbers": [
@@ -1138,14 +1138,14 @@
       },
       {
         "serialNumber": ".....",
-        "date": "2026-05-01",
+        "date": ".....",
         "displayDate": "Mar 20th 2026",
         "corrected": false,
         "correctionHistory": [],
         "winningNumbers": [
           {
             "position": "position_1",
-            "number": " ",
+            "number": "",
             "corrected": false,
             "previousValue": null
           },
@@ -1163,13 +1163,13 @@
           },
           {
             "position": "position_4",
-            "number": " ",
+            "number": "",
             "corrected": false,
             "previousValue": null
           },
           {
             "position": "position_5",
-            "number": " ",
+            "number": "",
             "corrected": false,
             "previousValue": null
           }
@@ -1777,7 +1777,7 @@
       },
       {
         "serialNumber": ".....",
-        "date": "2026-07-03",
+        "date": ".....",
         "displayDate": "",
         "corrected": false,
         "correctionHistory": [],
