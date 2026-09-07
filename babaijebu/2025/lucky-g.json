@@ -1786,31 +1786,31 @@
         "winningNumbers": [
           {
             "position": "position_1",
-            "number": "18",
+            "number": 18,
             "corrected": false,
             "previousValue": null
           },
           {
             "position": "position_2",
-            "number": "57",
+            "number": 57,
             "corrected": false,
             "previousValue": null
           },
           {
             "position": "position_3",
-            "number": "16",
+            "number": 16,
             "corrected": false,
             "previousValue": null
           },
           {
             "position": "position_4",
-            "number": "26",
+            "number": 26,
             "corrected": false,
             "previousValue": null
           },
           {
             "position": "position_5",
-            "number": "60",
+            "number": 60,
             "corrected": false,
             "previousValue": null
           }
@@ -1818,31 +1818,31 @@
         "machineNumbers": [
           {
             "position": "position_1",
-            "number": "81",
+            "number": 81,
             "corrected": false,
             "previousValue": null
           },
           {
             "position": "position_2",
-            "number": "70",
+            "number": 70,
             "corrected": false,
             "previousValue": null
           },
           {
             "position": "position_3",
-            "number": "72",
+            "number": 72,
             "corrected": false,
             "previousValue": null
           },
           {
             "position": "position_4",
-            "number": "14",
+            "number": 14,
             "corrected": false,
             "previousValue": null
           },
           {
             "position": "position_5",
-            "number": "75",
+            "number": 75,
             "corrected": false,
             "previousValue": null
           }
